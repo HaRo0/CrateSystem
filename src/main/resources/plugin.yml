@@ -1,0 +1,7 @@
+name: CrateSystem
+main: net.d_bor.projects.minecraft.cratesystem.CrateSystem
+version: 1
+author: HaRo0
+api-version: 1.15
+commands:
+    crate:
